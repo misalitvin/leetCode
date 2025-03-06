@@ -12,7 +12,7 @@ public class HashFunctionChecker {
     public static void main(String[] args) {
         // Pairs of strings to compare
         String[][] pairs = {
-                {"gg", "gg"},
+                {"bb", "bb"},
                 {"gg", "gg"},
                 {"gg", "gg"},
                 {"gg", "gg"}
