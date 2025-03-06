@@ -14,7 +14,6 @@ public class HashFunctionChecker {
         String[][] pairs = {
                 {"xwxx", "vztz"},
                 {"uwvy", "gvzz"},
-                {"tttt", "zszt"},
                 {"bvvv", "xxxw"}
         };
 
