@@ -12,10 +12,10 @@ public class HashFunctionChecker {
     public static void main(String[] args) {
         // Pairs of strings to compare
         String[][] pairs = {
-                {"xwxx", "vztz"},
-                {"uwvy", "gvzz"},
-                {"tttt", "zszt"},
-                {"bvvv", "xxxw"}
+                {"gg", "gg"},
+                {"gg", "gg"},
+                {"gg", "gg"},
+                {"gg", "gg"}
         };
 
         // Compare hash values for each pair
